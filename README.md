@@ -1,8 +1,8 @@
-##Gästbok
+## Gästbok
 
 Det här programmet är en gästbok. Det går att skapa inlägg och ta bort inlägg. Inläggen sparas lokalt på datorn i samma mapp som program.cs ligger. Inmatningar kontrolleras så att inte fel värde går att ange.
 
-####Arbetet innehåller:
+#### Arbetet innehåller:
 * c#
 * Klasser
 * Metoder

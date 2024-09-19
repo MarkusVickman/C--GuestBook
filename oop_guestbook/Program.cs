@@ -26,6 +26,7 @@ namespace GuestBook
         {
             //variabel med namnet på filen för inlägg som sparas på samma plats som program.cs
             string fileName = "guestbook_mavi.json"/*@"c:\windows\Temp\guestbook_mavi.json"*/;
+            //Om filen inte redan finns så skapas en ny
             if (!File.Exists(fileName))
             {
                 File.Create(fileName).Dispose();

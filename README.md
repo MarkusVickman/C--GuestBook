@@ -7,6 +7,8 @@ Det h채r programmet 채r en g채stbok. Det g책r att skapa inl채gg och ta bort inl�
 * Klasser
 * Metoder
 * Objekt
+* Serialisering till Json
+* Spara lokalt i fil
 
 Arbetet ing책r i en grundl채ggande programmering i C# p책 MittUniversitetet.
 Skrivet av Markus Vickman 2024-09-19

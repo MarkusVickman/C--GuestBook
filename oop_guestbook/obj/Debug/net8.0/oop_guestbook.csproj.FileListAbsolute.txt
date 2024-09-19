@@ -1,0 +1,14 @@
+c:\Users\marku\Desktop\webbutveckling-ht2024\c#\moment3\oop_guestbook\bin\Debug\net8.0\oop_guestbook.exe
+c:\Users\marku\Desktop\webbutveckling-ht2024\c#\moment3\oop_guestbook\bin\Debug\net8.0\oop_guestbook.deps.json
+c:\Users\marku\Desktop\webbutveckling-ht2024\c#\moment3\oop_guestbook\bin\Debug\net8.0\oop_guestbook.runtimeconfig.json
+c:\Users\marku\Desktop\webbutveckling-ht2024\c#\moment3\oop_guestbook\bin\Debug\net8.0\oop_guestbook.dll
+c:\Users\marku\Desktop\webbutveckling-ht2024\c#\moment3\oop_guestbook\bin\Debug\net8.0\oop_guestbook.pdb
+c:\Users\marku\Desktop\webbutveckling-ht2024\c#\moment3\oop_guestbook\obj\Debug\net8.0\oop_guestbook.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\marku\Desktop\webbutveckling-ht2024\c#\moment3\oop_guestbook\obj\Debug\net8.0\oop_guestbook.AssemblyInfoInputs.cache
+c:\Users\marku\Desktop\webbutveckling-ht2024\c#\moment3\oop_guestbook\obj\Debug\net8.0\oop_guestbook.AssemblyInfo.cs
+c:\Users\marku\Desktop\webbutveckling-ht2024\c#\moment3\oop_guestbook\obj\Debug\net8.0\oop_guestbook.csproj.CoreCompileInputs.cache
+c:\Users\marku\Desktop\webbutveckling-ht2024\c#\moment3\oop_guestbook\obj\Debug\net8.0\oop_guestbook.dll
+c:\Users\marku\Desktop\webbutveckling-ht2024\c#\moment3\oop_guestbook\obj\Debug\net8.0\refint\oop_guestbook.dll
+c:\Users\marku\Desktop\webbutveckling-ht2024\c#\moment3\oop_guestbook\obj\Debug\net8.0\oop_guestbook.pdb
+c:\Users\marku\Desktop\webbutveckling-ht2024\c#\moment3\oop_guestbook\obj\Debug\net8.0\oop_guestbook.genruntimeconfig.cache
+c:\Users\marku\Desktop\webbutveckling-ht2024\c#\moment3\oop_guestbook\obj\Debug\net8.0\ref\oop_guestbook.dll

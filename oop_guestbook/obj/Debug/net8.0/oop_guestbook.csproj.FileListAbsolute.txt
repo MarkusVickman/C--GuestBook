@@ -12,3 +12,4 @@ c:\Users\marku\Desktop\webbutveckling-ht2024\c#\moment3\oop_guestbook\obj\Debug\
 c:\Users\marku\Desktop\webbutveckling-ht2024\c#\moment3\oop_guestbook\obj\Debug\net8.0\oop_guestbook.pdb
 c:\Users\marku\Desktop\webbutveckling-ht2024\c#\moment3\oop_guestbook\obj\Debug\net8.0\oop_guestbook.genruntimeconfig.cache
 c:\Users\marku\Desktop\webbutveckling-ht2024\c#\moment3\oop_guestbook\obj\Debug\net8.0\ref\oop_guestbook.dll
+C:\Users\marku\Desktop\webbutveckling-ht2024\c#\moment3\oop_guestbook\obj\Debug\net8.0\oop_guestbook.sourcelink.json

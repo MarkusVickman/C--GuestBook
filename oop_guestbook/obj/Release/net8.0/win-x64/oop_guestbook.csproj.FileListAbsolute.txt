@@ -1,0 +1,15 @@
+C:\Users\marku\Desktop\webbutveckling-ht2024\c#\moment3\oop_guestbook\bin\Release\net8.0\win-x64\oop_guestbook.exe
+C:\Users\marku\Desktop\webbutveckling-ht2024\c#\moment3\oop_guestbook\bin\Release\net8.0\win-x64\oop_guestbook.deps.json
+C:\Users\marku\Desktop\webbutveckling-ht2024\c#\moment3\oop_guestbook\bin\Release\net8.0\win-x64\oop_guestbook.runtimeconfig.json
+C:\Users\marku\Desktop\webbutveckling-ht2024\c#\moment3\oop_guestbook\bin\Release\net8.0\win-x64\oop_guestbook.dll
+C:\Users\marku\Desktop\webbutveckling-ht2024\c#\moment3\oop_guestbook\bin\Release\net8.0\win-x64\oop_guestbook.pdb
+C:\Users\marku\Desktop\webbutveckling-ht2024\c#\moment3\oop_guestbook\obj\Release\net8.0\win-x64\oop_guestbook.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marku\Desktop\webbutveckling-ht2024\c#\moment3\oop_guestbook\obj\Release\net8.0\win-x64\oop_guestbook.AssemblyInfoInputs.cache
+C:\Users\marku\Desktop\webbutveckling-ht2024\c#\moment3\oop_guestbook\obj\Release\net8.0\win-x64\oop_guestbook.AssemblyInfo.cs
+C:\Users\marku\Desktop\webbutveckling-ht2024\c#\moment3\oop_guestbook\obj\Release\net8.0\win-x64\oop_guestbook.csproj.CoreCompileInputs.cache
+C:\Users\marku\Desktop\webbutveckling-ht2024\c#\moment3\oop_guestbook\obj\Release\net8.0\win-x64\oop_guestbook.sourcelink.json
+C:\Users\marku\Desktop\webbutveckling-ht2024\c#\moment3\oop_guestbook\obj\Release\net8.0\win-x64\oop_guestbook.dll
+C:\Users\marku\Desktop\webbutveckling-ht2024\c#\moment3\oop_guestbook\obj\Release\net8.0\win-x64\refint\oop_guestbook.dll
+C:\Users\marku\Desktop\webbutveckling-ht2024\c#\moment3\oop_guestbook\obj\Release\net8.0\win-x64\oop_guestbook.pdb
+C:\Users\marku\Desktop\webbutveckling-ht2024\c#\moment3\oop_guestbook\obj\Release\net8.0\win-x64\oop_guestbook.genruntimeconfig.cache
+C:\Users\marku\Desktop\webbutveckling-ht2024\c#\moment3\oop_guestbook\obj\Release\net8.0\win-x64\ref\oop_guestbook.dll

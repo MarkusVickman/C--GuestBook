@@ -1,0 +1,5 @@
+C:\Users\marku\Desktop\webbutveckling-ht2024\c#\moment3\oop_guestbook\bin\Release\net8.0\win-x64\publish\oop_guestbook.exe
+C:\Users\marku\Desktop\webbutveckling-ht2024\c#\moment3\oop_guestbook\bin\Release\net8.0\win-x64\publish\oop_guestbook.dll
+C:\Users\marku\Desktop\webbutveckling-ht2024\c#\moment3\oop_guestbook\bin\Release\net8.0\win-x64\publish\oop_guestbook.deps.json
+C:\Users\marku\Desktop\webbutveckling-ht2024\c#\moment3\oop_guestbook\bin\Release\net8.0\win-x64\publish\oop_guestbook.runtimeconfig.json
+C:\Users\marku\Desktop\webbutveckling-ht2024\c#\moment3\oop_guestbook\bin\Release\net8.0\win-x64\publish\oop_guestbook.pdb
